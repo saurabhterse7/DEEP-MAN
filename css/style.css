@@ -9231,7 +9231,7 @@ textarea.form-control-lg {
           background: #00204a;
           border-color: #00204a; }
       .site-nav .site-navigation .site-menu > li.active > a {
-        color: #000000; 
+        color: red; 
       font-weight: 600;}
     .site-nav .site-navigation .site-menu .has-children {
       position: relative; }
@@ -9654,7 +9654,7 @@ textarea {
   transform: translate(-50%, -50%); }
 
 .menu-bg-wrap {
-  background-color: #c8ffff;
+  background-color: #ffffff;
   padding: 20px 30px;
   position: relative;
   float: left;
