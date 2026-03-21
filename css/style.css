@@ -10154,13 +10154,16 @@ textarea {
   position: relative;
   z-index: 8;
   text-align: center;
-  background-color: rgba(0, 32, 74, 0.05); }
+  background-color: rgba(0, 32, 74, 0.05); 
+  display: flex;
+  flex-wrap: wrap;}
 
 .box-feature {
   background: #fff;
   border-radius: 4px;
   padding: 30px;
-  margin-bottom: 30px; }
+  margin-bottom: 30px; 
+  height: 350px;}
   .box-feature h3, .box-feature .h3 {
     font-size: 16px;
     margin: 0;
